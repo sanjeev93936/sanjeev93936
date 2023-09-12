@@ -9,16 +9,16 @@
 
 - 👯 I’m looking to collaborate on **APIs**
 
-- 💬 Ask me about **HTML, CSS, Java Script, React JS, Node JS, Express JS**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **sanjeevmadhavarapu3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanjeev madhavarapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeev madhavarapu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sanjeevmadhavar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sanjeevmadhavar1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanjeev_m_s_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjeev_m_s_d" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gfg (<sanjeevmadhavarapu3> /profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg (<sanjeevmadhavarapu3> /profile)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjeev-madhavarapu-92a389237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeev madhavarapu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sanjeevmadhavar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sanjeevmadhavar1" height="30" width="40" /></a>
+<a href="https://leetcode.com/Sanjeev_M_S_D/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjeev_m_s_d" height="30" width="40" /></a>
+<a href="https:auth.geeksforgeeks.org/?to=https://auth.geeksforgeeks.org/user/sanjeevmadhavarapu3/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg (<sanjeevmadhavarapu3> /profile)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
