@@ -3,16 +3,15 @@
 <h3 align="center">A passionate FullStack web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjeev93936" alt="sanjeev93936" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeev93936&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeev93936" /> </p>
 
 - 🔭 I’m currently working on **Amazon Clone**
-- 🌱 I’m currently learning **API**
-- 💬 Ask me about **HTML, CSS, Java Script, React JS, Node JS, Express JS, MySQL, Mongo DB**
+
+- 👯 I’m looking to collaborate on **APIs**
+
+- 💬 Ask me about **HTML, CSS, Java Script, React JS, Node JS, Express JS**
 
 - 📫 How to reach me **sanjeevmadhavarapu3@gmail.com**
-- - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeev93936&show_icons=true&locale=en&layout=compact" alt="sanjeev93936" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeev93936&show_icons=true&locale=en" alt="sanjeev93936" /></p>
+
+
