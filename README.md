@@ -8,10 +8,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sanjeev93936" alt="sanjeev93936" /></a> </p>
 
 - 🔭 I’m currently working on **Amazon Clone**
-
+- 🌱 I’m currently learning **API**
 - 💬 Ask me about **HTML, CSS, Java Script, React JS, Node JS, Express JS, MySQL, Mongo DB**
 
 - 📫 How to reach me **sanjeevmadhavarapu3@gmail.com**
+- - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
